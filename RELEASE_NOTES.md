@@ -6,7 +6,7 @@
 
 ## Upgrading
 
-<!-- Here goes notes on how to upgrade from previous versions, including deprecations and what they should be replaced with -->
+- The minimum supported version of `protobuf` was bumped to 5.28.1 and to 1.66.1 for `grpcio`. Make sure to update your dependencies accordingly.
 
 ## New Features
 
